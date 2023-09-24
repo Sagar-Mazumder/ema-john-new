@@ -1,0 +1,27 @@
+.cart {
+    width: 300px;
+    height: 508px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: relative;
+}
+
+.cart img {
+    width: 280px;
+    height: 280px;
+    margin: 10px;
+}
+
+.text-item {
+    margin-left: 10px;
+}
+
+.btn-cart {
+    background-color: #FFE0B3;
+    border: 1px solid gray;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    height: 40px;
+
+}
